@@ -5,4 +5,4 @@ You can also provide filter by any date since or until changing the params, to g
 
 I have made the script run and save in a sqlite db.
 
-#Tschus
+# Tschus
