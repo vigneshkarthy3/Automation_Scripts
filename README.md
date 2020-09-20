@@ -1,6 +1,6 @@
 # Automation_Scripts
-To get all the github commits from all the brances from a repo.
-==> get_all_githubcommits.py
+To get all the github commits from all the brances from a repo. 
+==> get_all_githubcommits.py 
 Go through and run with any repo. 
 You can also provide filter by any date since or until changing the params, to get the commit list.
 
