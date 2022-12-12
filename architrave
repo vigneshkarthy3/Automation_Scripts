@@ -1,6 +1,6 @@
-<mxfile modified="2022-12-12T19:22:33.158Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="HfF5nav2GfmdN5yAgsew" version="20.6.2" type="github">
+<mxfile modified="2022-12-12T19:23:16.872Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="d6Uhihj7Dj2gdIbLiUt9" version="20.6.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1564" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,21 +345,21 @@
         <mxCell id="tGOJSUKgPJt2CwX8GFTT-43" value="Availability Zone 1" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;" vertex="1" parent="tGOJSUKgPJt2CwX8GFTT-42">
           <mxGeometry x="20" y="30" width="770" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="tGOJSUKgPJt2CwX8GFTT-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0;exitY=0.21;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="tGOJSUKgPJt2CwX8GFTT-42" source="3m6as21reMBsXLtoCO8B-69">
+        <mxCell id="tGOJSUKgPJt2CwX8GFTT-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0;exitY=0.21;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="jZVaUwOg5UY3L9NAnvdq-71" source="3m6as21reMBsXLtoCO8B-69" target="3m6as21reMBsXLtoCO8B-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="105" y="400" as="targetPoint" />
+            <mxPoint x="400" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="315" y="489" />
-              <mxPoint x="315" y="420" />
-              <mxPoint x="125" y="420" />
-              <mxPoint x="125" y="400" />
+              <mxPoint x="610" y="538" />
+              <mxPoint x="610" y="470" />
+              <mxPoint x="420" y="470" />
+              <mxPoint x="420" y="443" />
             </Array>
-            <mxPoint x="411" y="416.13" as="sourcePoint" />
+            <mxPoint x="706" y="466.13" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tGOJSUKgPJt2CwX8GFTT-51" value="HostnameX" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tGOJSUKgPJt2CwX8GFTT-50">
           <mxGeometry x="-0.0652" y="-2" relative="1" as="geometry">
-            <mxPoint x="-63" y="2" as="offset" />
+            <mxPoint x="-55" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-47" value="DMS application" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
