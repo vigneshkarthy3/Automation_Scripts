@@ -1,6 +1,6 @@
-<mxfile modified="2022-12-12T19:25:39.162Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ZpnFc7EO21NRTL1v41Tn" version="20.6.2" type="github">
+<mxfile modified="2022-12-12T19:34:36.994Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5PmGgw0mgFHUFT-OuQM7" version="20.6.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="2234" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,6 +363,37 @@
         <mxCell id="tGOJSUKgPJt2CwX8GFTT-51" value="HostnameX" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tGOJSUKgPJt2CwX8GFTT-50">
           <mxGeometry x="-0.0652" y="-2" relative="1" as="geometry">
             <mxPoint x="-55" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGOJSUKgPJt2CwX8GFTT-55" value="S3 Bucket" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;strokeColor=#007FFF;fontColor=#000000;" vertex="1" parent="jZVaUwOg5UY3L9NAnvdq-71">
+          <mxGeometry x="1160" y="396.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="tGOJSUKgPJt2CwX8GFTT-56" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="jZVaUwOg5UY3L9NAnvdq-71" source="tGOJSUKgPJt2CwX8GFTT-43" target="tGOJSUKgPJt2CwX8GFTT-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="430" as="sourcePoint" />
+            <mxPoint x="1060" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGOJSUKgPJt2CwX8GFTT-58" value="Version Documents&lt;br&gt;stored" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="tGOJSUKgPJt2CwX8GFTT-56">
+          <mxGeometry x="0.0984" y="4" relative="1" as="geometry">
+            <mxPoint y="45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGOJSUKgPJt2CwX8GFTT-57" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="jZVaUwOg5UY3L9NAnvdq-71" target="tGOJSUKgPJt2CwX8GFTT-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="639" as="sourcePoint" />
+            <mxPoint x="1193.25" y="785.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="639" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGOJSUKgPJt2CwX8GFTT-59" value="Version Documents&lt;br&gt;stored" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="tGOJSUKgPJt2CwX8GFTT-57">
+          <mxGeometry x="0.3435" y="1" relative="1" as="geometry">
+            <mxPoint x="3" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-47" value="DMS application" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
